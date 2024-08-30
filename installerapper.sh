@@ -28,7 +28,7 @@ echo "!!!VELG liblphobos og ldc!!!"
 yay -S onedrive-abraunegg
 
 # Installer forskjellige nyttige programmer 
-sudo pacman -S firefox obsidian blender inkscape eog libreoffice-fresh okular pdfarranger --noconfirm
+sudo pacman -S firefox obsidian blender inkscape eog libreoffice-fresh okular pdfarranger waybar wofi --noconfirm
 #qemu-full samba dersom maskinen skal være host.
 
 echo "Resyncing onedrive"
